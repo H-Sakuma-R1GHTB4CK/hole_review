@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/hole_review/static/css/main.b56a2796.css",
-    "main.js": "/hole_review/static/js/main.b31cce2b.js",
+    "main.js": "/hole_review/static/js/main.64d1b31d.js",
     "static/media/heart-removebg-preview.png": "/hole_review/static/media/heart-removebg-preview.aef384d35f68a1b59dfe.png",
     "index.html": "/hole_review/index.html",
     "main.b56a2796.css.map": "/hole_review/static/css/main.b56a2796.css.map",
-    "main.b31cce2b.js.map": "/hole_review/static/js/main.b31cce2b.js.map"
+    "main.64d1b31d.js.map": "/hole_review/static/js/main.64d1b31d.js.map"
   },
   "entrypoints": [
     "static/css/main.b56a2796.css",
-    "static/js/main.b31cce2b.js"
+    "static/js/main.64d1b31d.js"
   ]
 }
