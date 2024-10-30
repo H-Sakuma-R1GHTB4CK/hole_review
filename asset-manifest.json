@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/H-Sakuma-R1GHTB4CK/hole_review/static/css/main.b1112f2a.css",
+    "main.js": "/H-Sakuma-R1GHTB4CK/hole_review/static/js/main.895379c5.js",
+    "static/media/heart-removebg-preview.png": "/H-Sakuma-R1GHTB4CK/hole_review/static/media/heart-removebg-preview.aef384d35f68a1b59dfe.png",
+    "index.html": "/H-Sakuma-R1GHTB4CK/hole_review/index.html",
+    "main.b1112f2a.css.map": "/H-Sakuma-R1GHTB4CK/hole_review/static/css/main.b1112f2a.css.map",
+    "main.895379c5.js.map": "/H-Sakuma-R1GHTB4CK/hole_review/static/js/main.895379c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1112f2a.css",
+    "static/js/main.895379c5.js"
+  ]
+}
