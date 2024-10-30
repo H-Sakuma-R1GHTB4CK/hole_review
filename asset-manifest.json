@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/H-Sakuma-R1GHTB4CK/hole_review/static/css/main.b1112f2a.css",
-    "main.js": "/H-Sakuma-R1GHTB4CK/hole_review/static/js/main.895379c5.js",
-    "static/media/heart-removebg-preview.png": "/H-Sakuma-R1GHTB4CK/hole_review/static/media/heart-removebg-preview.aef384d35f68a1b59dfe.png",
-    "index.html": "/H-Sakuma-R1GHTB4CK/hole_review/index.html",
-    "main.b1112f2a.css.map": "/H-Sakuma-R1GHTB4CK/hole_review/static/css/main.b1112f2a.css.map",
-    "main.895379c5.js.map": "/H-Sakuma-R1GHTB4CK/hole_review/static/js/main.895379c5.js.map"
+    "main.css": "/hole_review/static/css/main.b56a2796.css",
+    "main.js": "/hole_review/static/js/main.a2a15de1.js",
+    "static/media/heart-removebg-preview.png": "/hole_review/static/media/heart-removebg-preview.aef384d35f68a1b59dfe.png",
+    "index.html": "/hole_review/index.html",
+    "main.b56a2796.css.map": "/hole_review/static/css/main.b56a2796.css.map",
+    "main.a2a15de1.js.map": "/hole_review/static/js/main.a2a15de1.js.map"
   },
   "entrypoints": [
-    "static/css/main.b1112f2a.css",
-    "static/js/main.895379c5.js"
+    "static/css/main.b56a2796.css",
+    "static/js/main.a2a15de1.js"
   ]
 }
